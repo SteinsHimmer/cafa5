@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 3.运行`generate_embeddings.py`,之后获得相应的npy文件。
 
-4.运行`eval.py`，然后取得相应评估结果
+4.运行`eval.ipynb`，然后取得相应评估结果(本人服务器最近占用率较高，最终结果等一下出)
 
 
 
