@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.swp
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+
+# Environment variables
+*.env
+
+# Build artifacts
+dist/
+build/
+
+# 忽略压缩文件
+*.zip
+
+*.fasta
+*.tsv
+*.obo
+
+Test/
+Train/
